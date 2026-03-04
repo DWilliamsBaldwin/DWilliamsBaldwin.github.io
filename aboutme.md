@@ -60,7 +60,9 @@ My role combines **research**, **observatory operations**, **teaching** and **da
 When I’m not working with radio telescopes, I enjoy:
 
 - Sailing
-  ![Profile Picture](/assets/img/Sailing-GP14.jpeg){: .img-responsive } ![Profile Picture](/assets/img/Sailing-supernova.jpeg){: .img-responsive }
+  ![GP14](/assets/img/Sailing-GP14.jpeg){: .mx-auto.d-block :}
+  ![Supernova](/assets/img/Sailing-supernova.jpeg){: .mx-auto.d-block :}
+
 - Archery
 
 ---
