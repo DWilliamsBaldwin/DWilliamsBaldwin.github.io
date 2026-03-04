@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Index
+header:
+  show_nav: true
 ---
 
 ![Profile Picture](/assets/img/David-Darnhall.jpeg){: .img-responsive }
