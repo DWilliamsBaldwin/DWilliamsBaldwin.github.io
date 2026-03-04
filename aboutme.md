@@ -28,19 +28,19 @@ You can find my ORCID profile here:
 
 ## Research Themes
 
-### 🌀 Jet Formation and Evolution  
+### 🌪️ Jet Formation and Evolution  
 I investigate how jets are launched from compact objects, and how their properties evolve during outbursts.  
 Radio monitoring provides unique probes of particle acceleration, jet speed, collimation, and magnetic field structure.
 
-### 🌌 Low-Luminosity AGN  
+### 🕳️ Low-Luminosity AGN  
 Through my involvement in the **[LeMMINGs](https://www.e-merlin.ac.uk/legacy-lemmings.html)** survey, I study nuclear activity and parsec‑scale jet production in nearby galaxies.  
 My work helps refine the connection between accretion flows and weak jet emission in galaxies lacking classical AGN signatures.
 
-### ✴ Radio Transients  
+### 💥 Radio Transients  
 The dynamic radio sky is full of surprises — from gamma-ray burst afterglows to magnetic activity in brown dwarfs.  
 I collaborate on large surveys including **[ThunderKAT](https://science.uct.ac.za/thunderkat)**, exploring explosive phenomena across a wide range of timescales.
 
-### ✴ Star formation in M82
+### ⭐ Star formation in M82
 The nearby starburst galaxy M82 is the perfect laboratory for studying the evolution of supernova remnants in the radio waveband using EVN and e-MERLIN. 
 Together with my PhD student **[Emily](https://www.linkedin.com/in/emily-walls-01)**, we are conducting a study into the variability of all the sources in this galaxy.
 
