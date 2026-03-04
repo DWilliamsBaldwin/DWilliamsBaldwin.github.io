@@ -2,6 +2,8 @@
 layout: page
 title: About me
 permalink: /aboutme/
+header:
+  show_nav: true
 ---
 
 ![Profile Picture](/assets/img/David-Darnhall.jpeg){: .img-responsive }
