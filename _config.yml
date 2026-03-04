@@ -21,6 +21,8 @@ author: Dr David Williams-Baldwin
 
 navbar-links:
   About Me: "aboutme"
+  My Research: "research"
+  Contact Me: "contact"
   
   Resources:
     - e-MERLIN: "https://www.e-merlin.ac.uk/"
